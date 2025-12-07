@@ -216,6 +216,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Flask App Builder - **Open Source** [https://github.com/dpgaspar/Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) [![Stars](https://img.shields.io/github/stars/dpgaspar/Flask-AppBuilder.svg)](https://github.com/dpgaspar/Flask-AppBuilder)
 - Ignite - https://github.com/sumukh/ignite
 - SaaS Forge - **Open Source** https://www.saasforge.dev/
+- ReadyKit - https://readykit.dev
 
 ## Other
 
@@ -277,4 +278,5 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 
 - DeployFast - https://deployfast.cloud
 - Terraform Starter - **Open Source** [https://github.com/DmitrySadovnikov/terraform-starter](https://github.com/DmitrySadovnikov/terraform-starter) [![Stars](https://img.shields.io/github/stars/DmitrySadovnikov/terraform-starter.svg)](https://github.com/DmitrySadovnikov/terraform-starter)
+
 
